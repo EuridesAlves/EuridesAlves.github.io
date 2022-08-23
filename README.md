@@ -7,7 +7,7 @@ Meu objetivo é ser um Desenvolvedor Full Stack, apesar de ter preferencia pelo 
 
 Trabalho com infórmatica há mais de 30 anos, tendo já desenvolvido em Cobol, FoxPro, Clipper entre outras.
 
-Linguagens, frame-works e Banco de dados:
+Linguagens, frame-works e Banco de dados:                                                   
 * Html, CSS
 * JavaScript (React, Node, Express)
 * Python
@@ -30,3 +30,6 @@ Link para Portfólio: em construção;
 
 Link para Curriculum: em construção.
 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuridesAlves)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuridesAlves)](https://github.com/anuraghazra/github-readme-stats)
