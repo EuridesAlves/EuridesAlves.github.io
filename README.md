@@ -1,7 +1,7 @@
 Olá! 
 Meu nome é Eurides Alves, moro em Belo Horizonte, Minas Gerais.
 
-Concluí recentemente (Ago/22) o curso de desenvolvimento de software web na Trybe (1500 horas de conteúdo) onde aprendemos a desenvolver utilizando JavaScript tanto em Front-end (React) quanto em Back-end (Node). Estudamos também Ciência da Computação (onde aprendemos também um pouco sobre Python).
+Concluí recentemente (Ago/22) o curso de desenvolvimento de software web na Trybe (1500 horas de conteúdo) onde aprendemos a desenvolver utilizando JavaScript tanto em Front-end (React) quanto em Back-end (Node). Estudamos ainda Ciência da Computação (onde aprendemos também um pouco sobre Python).
 
 Meu objetivo é ser um Desenvolvedor Full Stack, apesar de ter preferencia pelo Back-end.
 
