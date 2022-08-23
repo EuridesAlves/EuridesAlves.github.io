@@ -9,7 +9,7 @@ Trabalho com infórmatica há mais de 30 anos, tendo já desenvolvido em Cobol, 
 
 Gosto de ouvir música, assistir futebol, andar de bicicleta, passear com a família e pratico caminhada regularmente.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([Link perfil no LinkedIn])
+[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[Link perfil no LinkedIn](https://www.linkedin.com/in/euridesjosealves/)])]([Link perfil no LinkedIn])
 
 Meus contatos:
 LinkedIn: https://www.linkedin.com/in/euridesjosealves/
