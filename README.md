@@ -12,9 +12,10 @@ Gosto de ouvir música, assistir futebol, andar de bicicleta, passear com a fam�
 [![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[Link perfil no LinkedIn](https://www.linkedin.com/in/euridesjosealves/)])]([[Link perfil no LinkedIn](https://www.linkedin.com/in/euridesjosealves/)])
 
 Meus contatos:
-LinkedIn: https://www.linkedin.com/in/euridesjosealves/
 
 email: euridesalves@yahoo.com.br
+
+LinkedIn: https://www.linkedin.com/in/euridesjosealves/
 
 Link para repositórios: em construção;
 
